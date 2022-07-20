@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bunny.hammer/static/css/main.073c9b0a.css",
+    "main.js": "/bunny.hammer/static/js/main.6f66b1c6.js",
+    "static/media/logo.svg": "/bunny.hammer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bunny.hammer/index.html",
+    "main.073c9b0a.css.map": "/bunny.hammer/static/css/main.073c9b0a.css.map",
+    "main.6f66b1c6.js.map": "/bunny.hammer/static/js/main.6f66b1c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f66b1c6.js"
+  ]
+}
